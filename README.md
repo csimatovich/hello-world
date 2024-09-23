@@ -14,5 +14,5 @@ We used data from:
 - The state tax brackets page [Iowa Department of Revenue](https://revenue.iowa.gov/press-release/2023-10-25/idr-announces-2024-individual-income-tax-brackets-and-interest-rates)
 
 ## Important Information
-- Check your equations with different numbers **before** submitting
-- Make sure that **str** are change to **int** or **float**
+- Check your equations with different numbers ***before*** submitting
+- Make sure that ***str*** are change to ***int*** or ***float***
