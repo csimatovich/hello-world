@@ -10,6 +10,6 @@ This project was used to accomplish a variety of different things including:
 
 # Data Used
 We used data from:
-- The federal tax brackets page (Nerd Wallet)[https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets]
+- The federal tax brackets page [Nerd Wallet](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets)
 - 
 
